@@ -2,7 +2,7 @@
 
 ## Screenshots
 ### DarkMode
-![darkMode] (https://i.ibb.co/K2snDhn/01.jpg)
+![darkMode](https://i.ibb.co/K2snDhn/01.jpg)
 ### LightMode
 ![lightMode](https://i.ibb.co/wd2X26z/02.jpg)
 
