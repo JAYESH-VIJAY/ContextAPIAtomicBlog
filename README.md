@@ -2,9 +2,9 @@
 
 ## Screenshots
 ### DarkMode
-![https://i.ibb.co/K2snDhn/01.jpg]
+![darkMode] (https://i.ibb.co/K2snDhn/01.jpg)
 ### LightMode
-![https://i.ibb.co/wd2X26z/02.jpg]
+![lightMode](https://i.ibb.co/wd2X26z/02.jpg)
 
 Context API Atomic Blog is a React application showcasing the power of Context API for state management and the concept of atomic design for structuring components. It's a simple yet illustrative example of how to manage state, organize components, and create a blog-like user interface.
 
